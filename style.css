@@ -42,7 +42,7 @@ body {
 }
 
 .container .card::after {
-  content: "Bulmain";
+  content: "Balmain";
   position: absolute;
   top: 30%;
   left: -20%;

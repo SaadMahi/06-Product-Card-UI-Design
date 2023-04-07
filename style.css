@@ -134,6 +134,10 @@ body {
   font-family: "Nanum Gothic", sans-serif;
 }
 
+.size {
+  cursor: pointer;
+}
+
 .container .card:hover .contentBx p {
   display: none;
 }
@@ -218,7 +222,7 @@ body {
   text-decoration: none;
   font-weight: 600;
   opacity: 0;
-  
+
   transform: translateY(50px);
   transition: 0.5s;
 }
